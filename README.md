@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tuna Karataş | Software Developer</title>
 </head>
 <body>
   <div class="container">
