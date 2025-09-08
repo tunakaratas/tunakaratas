@@ -3,52 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Tuna Karataş | Software Developer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f7fa;
-      color: #333;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
-    .container {
-      background: #fff;
-      padding: 40px;
-      border-radius: 12px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-      max-width: 700px;
-      text-align: center;
-    }
-    h1 {
-      color: #222;
-      font-size: 1.8rem;
-      margin-bottom: 20px;
-    }
-    p {
-      margin: 10px 0;
-      font-size: 1rem;
-      line-height: 1.6;
-    }
-    a {
-      color: #0073e6;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .highlight {
-      font-weight: bold;
-      color: #d34e24;
-    }
-    em {
-      color: #555;
-    }
-  </style>
 </head>
 <body>
   <div class="container">
