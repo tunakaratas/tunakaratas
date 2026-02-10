@@ -7,8 +7,6 @@
   <div class="container">
     <h1>👋 Hi, I’m <span class="highlight">Tuna Karataş</span></h1>
     <p>💻 Software Developer focused on <strong>PHP, JavaScript, Swift, HTML and CSS</strong>.</p>
-    <p>🚀 Creator of SaaS & POS systems under the <strong>FourSoftware</strong> brand.</p>
-    <p>📦 Projects: <strong>FourService</strong>, <strong>FourPOS</strong>, <strong>FourLibrary</strong>, <strong>FourPlans</strong>, <strong>Pazmanya Admin Panel</strong></p>
     <p>🛠️ Tech Stack: PHP, JavaScript, HTML, CSS, CodeIgniter 4, Bootstrap, MySQL,</p>
     <p>📫 Contact: 
       <a href="mailto:tunakaratas@...">tun4aa@gmail.com</a> | 
