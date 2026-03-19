@@ -10,7 +10,7 @@ I build end-to-end systems for both individual and corporate operations across m
 
 **💻 Tech Stack**
 * **Mobile (Native):** Swift, Kotlin
-* **Web & Backend:** PHP, JavaScript, TypeScript
+* **Web & Backend:** PHP(CodeIgniter4,Laravel), JavaScript, TypeScript
 * **Core Focus:** RESTful API Design, Multi-tenant Architectures, Admin Panels & Dashboards
 
 **📫 Contact & Links**
