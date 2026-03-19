@@ -1,7 +1,6 @@
 ### Hi, I'm Tuna Karataş 👋
 
-I'm a Software Engineering student at Bandırma Onyedi Eylül University and the founder of **Four Software**. I focus on delivering functional products that solve real-world problems, rather than using buzzwords. 
-
+I'm a Software Engineering student at Bandırma Onyedi Eylül University and the founder of **Four Software**.
 I build end-to-end systems for both individual and corporate operations across mobile and web ecosystems, handling everything from ground-up architecture to deployment.
 
 **🚀 Featured Work**
