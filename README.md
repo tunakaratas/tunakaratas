@@ -1,18 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
-  <div class="container">
-    <h1>👋 Hi, I’m <span class="highlight">Tuna Karataş</span></h1>
-    <p>💻 Software Developer focused on <strong>PHP, JavaScript, Swift, HTML and CSS</strong>.</p>
-    <p>🛠️ Tech Stack: PHP, JavaScript, HTML, CSS, CodeIgniter 4, Bootstrap, MySQL,</p>
-    <p>📫 Contact: 
-      <a href="mailto:tunakaratas@...">tun4aa@gmail.com</a> | 
-      <a href="https://linkedin.com/in/tunakaratas">LinkedIn</a> | 
-      <a href="https://instagram.com/tun4karatass">Instagram</a>
-    </p>
-  </div>
-</body>
-</html>
+### Hi, I'm Tuna Karataş 👋
+
+I'm a Software Engineering student at Bandırma Onyedi Eylül University and the founder of **Four Software**. I focus on delivering functional products that solve real-world problems, rather than using buzzwords. 
+
+I build end-to-end systems for both individual and corporate operations across mobile and web ecosystems, handling everything from ground-up architecture to deployment.
+
+**🚀 Featured Work**
+* **SchedulinX:** An academic scheduling platform built in collaboration with university academics, currently in active use by the university.
+* **Pazmanya:** Our e-commerce infrastructure. I actively developed the comprehensive admin panel for this platform.
+* *Check out my other projects and solutions at:* [foursoftware.com.tr](https://foursoftware.com.tr/)
+
+**💻 Tech Stack**
+* **Mobile (Native):** Swift, Kotlin
+* **Web & Backend:** PHP, JavaScript, TypeScript
+* **Core Focus:** RESTful API Design, Multi-tenant Architectures, Admin Panels & Dashboards
+
+**📫 Contact & Links**
+* **Website:** [foursoftware.com.tr](https://foursoftware.com.tr/)
+* **LinkedIn:** [https://linkedin.com/in/tunakaratas]
+* **Email:** [tun4aa@gmail.com]
