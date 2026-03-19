@@ -15,5 +15,5 @@ I build end-to-end systems for both individual and corporate operations across m
 
 **📫 Contact & Links**
 * **Website:** [foursoftware.com.tr](https://foursoftware.com.tr/)
-* **LinkedIn:** [https://linkedin.com/in/tunakaratas]
-* **Email:** [tun4aa@gmail.com]
+* **LinkedIn:** https://linkedin.com/in/tunakaratas
+* **Email:** tun4aa@gmail.com
